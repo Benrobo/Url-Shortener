@@ -1,6 +1,6 @@
 ### Nodejs Custom Made Url Shortener
 
-<img src="">
+<img src="https://github.com/Benrobo/Url-Shortener/blob/main/demo.gif">
 
 <table class="table table-striped">
     <thead>
